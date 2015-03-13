@@ -1,0 +1,29 @@
+@font-face{
+     font-family: "Police";
+     src: url("Bloody/BLOODY.ttf");
+}
+
+body {
+	height: 700px;
+	background:	url('cut_the_rope.jpg');
+}
+
+table {
+	font-size: 14px;
+	font-family: "Police";
+	float : left;
+	margin-left : 5px;
+}
+
+div {
+	height : 200px;
+	left : 215px;
+	bottom : 75px;
+}
+
+p {
+	font-size: 26px;
+	text-align: center;
+    font-family: "Police";
+    text-decoration: underline;
+}
